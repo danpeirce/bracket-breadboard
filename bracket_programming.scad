@@ -1,4 +1,3 @@
-
 inch = 25.4;
 pin_width = 0.65;
 back_offset = 1.52 - pin_width/2;
@@ -44,11 +43,11 @@ difference()
          cube([con_length+7, 2.54+0.1, 12]);
     }   // slot for insert
 
-    translate([10-0.1, 7.5, 2.54])
+    translate([10-0.1+2.54, 7.5, 2.54])
     {
          cube([con_length+3.5, 2.54+0.1, 12]);
     }   // slot1 for wires
-    translate([board_wd+arm_wd-(con_length+3.5)+0.1, 7.5, 2.54])
+    translate([board_wd+arm_wd-(con_length+3.5)+0.1-2.54, 7.5, 2.54])
     {
          cube([con_length+3.5, 2.54+0.1, 12]);
     }   // slot2 for wires
