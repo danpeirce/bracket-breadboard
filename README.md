@@ -1,3 +1,5 @@
+[Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming2.stl)
+
 # PICkit2, PICkit3 Programming Header to Breadboard Bracket
 
 ## Purpose of the bracket-breadboard SCAD Project
@@ -13,10 +15,10 @@ OpenSCAD is an free open source program that can be used for creating and viewin
 
 ### The Model
 These images are from the [first version of the SCAD file](https://github.com/danpeirce/bracket-breadboard/blob/c5ccfa7ed66dbcf597f41a93814c27feb3500029/bracket_programming.scad).
-![Bracket View 02](http://www3.telus.net/danpeirce/notes/3D/bracket_breadbaord/bracket_view02.png)
+![Bracket View 02](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_view02.png)
 
-![Bracket View 01](http://www3.telus.net/danpeirce/notes/3D/bracket_breadbaord/bracket_view01.png)
+![Bracket View 01](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_view01.png)
 
-![Bracket View 03](http://www3.telus.net/danpeirce/notes/3D/bracket_breadbaord/bracket_view03.png)
+![Bracket View 03](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_view03.png)
 
  
