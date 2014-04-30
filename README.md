@@ -18,6 +18,10 @@ OpenSCAD is an free open source program that can be used for creating and viewin
 * [My notes on OpenSCAD including links](http://www3.telus.net/danpeirce/notes/openscad.html)
 
 ### The Model
+
+This image is from the second version of the SCAD file
+![bracket programming V2](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming2.png)
+
 These images are from the [first version of the SCAD file](https://github.com/danpeirce/bracket-breadboard/blob/c5ccfa7ed66dbcf597f41a93814c27feb3500029/bracket_programming.scad).
 ![Bracket View 02](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_view02.png)
 
