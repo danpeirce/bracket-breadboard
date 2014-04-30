@@ -1,4 +1,8 @@
-[Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming2.stl)
+The most recent STL file is on another site:
+
+* [Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming2.stl)
+
+This STL file was created from the SCAD file using OpenSCAD.
 
 # PICkit2, PICkit3 Programming Header to Breadboard Bracket
 
