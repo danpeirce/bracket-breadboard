@@ -13,7 +13,7 @@ In APSC1299 and PHYS1600 a six pin programming header must be attached to a sold
 
 Image of prototype
 
-![Bracket Top Back](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/prog_brack_top_back.jpg)
+![Bracket Top Back](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/PICkit3_bracket_breadboard.jpg)
 
 ## Creating a 3D Model using OpenSCAD
 
@@ -45,3 +45,36 @@ These are the first images of the prototype that has been 3D printed in the KPU 
 ![Connector Close2](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/prog_brack_top_close2.jpg)
 
 ![Connector Close](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/prog_brack_top_close.jpg)
+
+## Soldering Wire Onto the Programming Header
+
+The end of the hookup wire was bent in a loop and crimped onto the pins below the bend of in each pin. Solder was applied.
+
+![Solder Joints](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/solder_joints.jpg)
+
+Once the wire was cool the insulation was slipped down to insulate the wire up to the solder joint.
+
+![Adjust Header Wire Isolation](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/header_wires.jpg)
+
+The header is inserted into the bracket from the back.
+
+![Inserting Header](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/insertion_of.jpg)
+
+![Inserting Header 2](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/insertion_of2.jpg)
+
+The end of the pins are snapped into place with a small flat screwdriver (they fit into a shallow narrow slot).
+
+![Pins snapped into place](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/snap_pins_in.jpg)
+
+The bracket is twisted onto the board until it snaps in place.
+
+![Bracket twisted onto board](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/twist_board.jpg)
+
+The placement of the wire is adjusted.
+
+![Placement wire adjusted](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/wire_adjust.jpg)
+
+The rest of the wires are placed into the grove, trimmed and stripped to complete connections.
+
+![Completed connections](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/attach_PICkit3.jpg)
+
