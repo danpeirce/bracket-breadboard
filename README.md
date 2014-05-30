@@ -1,6 +1,6 @@
 The most recent STL file is on another site:
 
-* [Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming2.stl)
+* [Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming3.stl)
 
 This STL file was created from the SCAD file using OpenSCAD.
 
