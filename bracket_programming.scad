@@ -14,7 +14,7 @@ x_slot_edge = board_wd/2-con_length/2-7/2+arm_wd;
 tab_y =17.2;
 tab_yh = 16.9;
 tab_y_w = 4.4;
-tab_x_w = 1.5;
+tab_x_w = 1.5;   
 tabhole_y_w = 4.1;
 
 difference()
@@ -54,7 +54,7 @@ difference()
 
 translate([arm_wd+board_wd-0.1, arm_wd+tab_y-tab_y_w+0.1, -0.1])
     {
-        cube([tab_x_w-0.15, tab_y_w+.1,7+1]);
+        cube([tab_x_w+0.85, tab_y_w+.1,7+1-1.2]); // corrections based on prototype fit
     } // tab hole
 
 
@@ -70,6 +70,6 @@ translate([arm_wd+board_wd-0.1, arm_wd+tab_y-tab_y_w+0.1, -0.1])
 
 translate([arm_wd-0.1, arm_wd+tab_yh-tabhole_y_w+0.1, 0.3])
     {
-        cube([tab_x_w-0.15+0.1, tabhole_y_w-.2,7-1.3]);
+        cube([tab_x_w-0.15-0.45+0.1, tabhole_y_w-.2,7-1.3]); // correctoins based on prototype fit
     }
 
