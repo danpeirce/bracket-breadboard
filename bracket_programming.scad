@@ -19,11 +19,13 @@ tabhole_y_w = 4.1;
 
 difference()
 {
-    cube([board_wd+2*arm_wd, 25+arm_wd, 0.4*inch]);
-    translate([arm_wd, arm_wd, -2])
-    {
-         cube([board_wd, 25+arm_wd, 0.4*inch+4]);
-    }  // space for board
+    cube([board_wd+2*arm_wd, arm_wd, 0.4*inch]);
+
+    translate([-0.1, -0.1, -0.1])
+        cube([arm_wd+0.1, arm_wd+0.1*2, 0.4*inch+0.1*2]);
+    translate([board_wd+arm_wd, -0.1, -0.1])
+        cube([arm_wd+0.1, arm_wd+0.1*2, 0.4*inch+0.1*2]);
+
     translate([board_wd/2-con_length/2+arm_wd, -1, arm_wd/2-con_thk/2])
     {
          cube([con_length, 1+2.54+2, con_thk]);
@@ -52,10 +54,7 @@ difference()
          cube([con_length+3.5, 2.54+0.1, 12]);
     }   // slot2 for wires
 
-translate([arm_wd+board_wd-0.1, arm_wd+tab_y-tab_y_w+0.1, -0.1])
-    {
-        cube([tab_x_w+0.85, tab_y_w+.1,7+1-1.2]); // corrections based on prototype fit
-    } // tab hole
+
 
 
     translate([board_wd/2-con_length/2-2/2+arm_wd, 2.54+back_offset , arm_wd/2-con_thk/2 - tail+0.5])
@@ -67,9 +66,4 @@ translate([arm_wd+board_wd-0.1, arm_wd+tab_y-tab_y_w+0.1, -0.1])
          cube([con_length+2, 10, 12]);
     }   // space for access 
 }
-
-translate([arm_wd-0.1, arm_wd+tab_yh-tabhole_y_w+0.1, 0.3])
-    {
-        cube([tab_x_w-0.15-0.45+0.1, tabhole_y_w-.2,7-1.3]); // correctoins based on prototype fit
-    }
 
