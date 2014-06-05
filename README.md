@@ -4,7 +4,9 @@ The most recent STL file is on another site:
 
 This STL file was created from the SCAD file using OpenSCAD.
 
-# PICkit2, PICkit3 Programming Header to Breadboard Bracket
+# PICkit2, PICkit3 Programming Header to Breadboard Bracket (Master Branch - Arms removed)
+
+This version of the README.md file will be updated with new photos as they becom available.
 
 ## Purpose of the bracket-breadboard SCAD Project
 In APSC1299 and PHYS1600 a six pin programming header must be attached to a solderless breadboard. In the past this has been done with hot glue as a quick simple solution. A better long term solution is desirable. The last time I needed a bracket I turned to having it 3D printed and was happy with the result. This project lends itself nicely to 3D printing because the bracket will be small with fine features.
