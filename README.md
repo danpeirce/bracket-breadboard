@@ -13,6 +13,11 @@ In APSC1299 and PHYS1600 a six pin programming header must be attached to a sold
 
 ![PICkit2, PICkit3 Programming header to Breadboard Bracket](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/pickit3_breadboard.png)
 
+
+Final Version (to reduce cost attachment arms were left out)
+
+![Image of final version without attachment arms](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/armless-bracket.jpg)
+
 Image of prototype
 
 ![Bracket Top Back](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/PICkit3_bracket_breadboard.jpg)
