@@ -1,6 +1,6 @@
 The most recent STL file is on another site:
 
-* [Link to STL File](http://www3.telus.net/danpeirce/notes/3D/bracket_breadboard/bracket_programming3.stl)
+* [Link to STL File](http://members.shaw.ca/danielpeirce/notes/3D/bracket_breadboard/bracket_programming3.stl)
 
 This STL file was created from the SCAD file using OpenSCAD.
 
@@ -26,7 +26,7 @@ Image of prototype
 
 OpenSCAD is an free open source program that can be used for creating and viewing 3D models.
 
-* [My notes on OpenSCAD including links](http://www3.telus.net/danpeirce/notes/openscad.html)
+* [My notes on OpenSCAD including links](http://members.shaw.ca/danielpeirce/notes/openscad.html)
 
 ### The Model
 
