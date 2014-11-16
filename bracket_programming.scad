@@ -1,3 +1,6 @@
+// bracket_progamming.scad
+// Dan Peirce B.Sc. cc0
+
 inch = 25.4;
 pin_width = 0.65;
 back_offset = 1.52 - pin_width/2;
