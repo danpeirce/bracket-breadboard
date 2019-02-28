@@ -1,9 +1,3 @@
-The most recent STL file is on another site:
-
-* [Link to STL File](http://members.shaw.ca/danielpeirce/notes/3D/bracket_breadboard/bracket_programming3.stl)
-
-This STL file was created from the SCAD file using OpenSCAD.
-
 # PICkit2, PICkit3 Programming Header to Breadboard Bracket (Master Branch - Arms removed)
 
 This version of the README.md file will be updated with new photos as they becom available.
@@ -26,7 +20,7 @@ Image of prototype
 
 OpenSCAD is an free open source program that can be used for creating and viewing 3D models.
 
-* [My notes on OpenSCAD including links](http://members.shaw.ca/danielpeirce/notes/openscad.html)
+* [My notes on OpenSCAD including links](https://danpeirce.github.io/openscad.html)
 
 ### The Model
 
