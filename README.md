@@ -35,6 +35,33 @@ These images are from the [first version of the SCAD file](https://github.com/da
 
 ![Bracket View 03](image/bracket_view03.png)
 
+## Amended Procedure of adding Header and Wire
+
+In 2016 the procedure for adding the header and wire was Amended to speed up the process.
+
+In interest of keeping new programming header mounting method more time efficient and at the same time keeping 
+the final result essentially unchanged I have worked out the following procedure/method (still using the existing 
+3D printed part):
+
+![board-in-bracket](image/board-in-bracket.jpg)
+
+I then mount it with hotglue so it can be removed the next time the breadbaord needs to be replaced:
+
+![hotglue-to-breadboard](image/hotglue-to-breadboard.jpg)
+
+The other change that helps get this together faster than before is the addition of a small piece of proto board 
+and the change to straight header pins:
+
+![cust-board](image/cust-board.jpg)
+
+* I solder the wires on first.
+* Insert the header into the 3d printed addaptor.
+* Then solder the header pins.
+
+This way one can avoid twisting the wire onto each pin and crimping which is what I did before. 
+
+![wires-cust-board](image/wires-cust-board.jpg)
+
 ## Prototype
  
 These are the first images of the prototype that has been 3D printed in the KPU drafting department.
